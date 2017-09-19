@@ -19,3 +19,15 @@ class SearchBar extends Component {
 }
 
 export default SearchBar;
+
+
+// JSX
+// Components
+// State
+// Es6 classes
+// Arrow functions
+// import export statements
+
+
+// App starts in index.js define base component App.
+// Imports the SearchBar component and returns it in App.
